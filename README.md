@@ -18,4 +18,4 @@ I'm a highly motivated Computer Science student in the prestigious **Odyssey Pro
 - **Email:** [maayanoshri1904@gmail.com](mailto:maayanoshri1904@gmail.com)
 
 ---
-**[Click here to view my full Resume]()**
+**[Click here to view my full Resume](https://github.com/nexby323/nexby323/blob/main/maayan_oshri_cv.pdf)**
